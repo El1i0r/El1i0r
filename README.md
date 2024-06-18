@@ -1,5 +1,8 @@
 ## The Orange is the sole bane of doctor's primary existence 🍊
 
+Hey there, I'm a human who uses Unix with 14.55-unix-years-old kernal, I use Eyes as my Windows Manager. Tis' nerd likes linux, uses Arch btw with Hyprland and AGS. Currently in 9th Grade as a Computer Science idiot, hopefully a full stacks dev someday... But that's for later.
+I'm working on something... _big_
+
 __I'm currently learning__:  
 __```[✓]: Completed; [*]: Ongoing; [✗]: Not Yet```__  
   
