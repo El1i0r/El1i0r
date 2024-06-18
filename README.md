@@ -24,7 +24,8 @@
 
 <p align="center">
 	<a href="https://discord.com/users/1073076541770190860 ">
-	<img src="https://lanyard-profile-readme.vercel.app/api/1073076541770190860?theme=dark&bg=222222&animated=false&hideDiscrim=false&borderRadius=20px&idleMessage=If%20I'm%20not%20coding,%20I'm%20probably%20playing%20Minecraft." alt="Discord Presence" style="margin-top: 50px">
+	<img src="https://lanyard.cnrad.dev/api/1073076541770190860
+	theme=dark&bg=222222&animated=false&hideDiscrim=false&borderRadius=20px&idleMessage=If%20I'm%20not%20coding,%20I'm%20probably%20playing%20Minecraft." alt="Discord Presence" style="margin-top: 50px">
 	</a>
 </p>
 
