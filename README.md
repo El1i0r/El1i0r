@@ -22,11 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[&#10007;]</span> TypeScript <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/tsx.svg" height = 20px style="vertical-align: -5px;"><br>
 
 
-<p align="center">
-	<a href="https://discord.com/users/1073076541770190860 ">
-	<img src="https://lanyard.cnrad.dev/api/1073076541770190860theme=dark&bg=222222&animated=false&hideDiscrim=false&borderRadius=20px&idleMessage=If%20I'm%20not%20coding,%20I'm%20probably%20playing%20Minecraft." alt="Discord Presence" style="margin-top: 50px">
-	</a>
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1073076541770190860 )](https://discord.com/users/1073076541770190860)
 
 <!--
 &#10003
