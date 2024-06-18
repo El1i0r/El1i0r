@@ -21,9 +21,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[ * ]</span> JavaScript <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/js.svg" height = 20px style="vertical-align: -5px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[&#10007;]</span> TypeScript <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/tsx.svg" height = 20px style="vertical-align: -5px;"><br>
 
-
+```md
 [![Discord Presence](https://lanyard.cnrad.dev/api/1073076541770190860 )](https://discord.com/users/1073076541770190860)
-
+```
 <!--
 &#10003
 &#10007;
