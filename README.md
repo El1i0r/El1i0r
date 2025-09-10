@@ -1,26 +1,25 @@
 ## El1i0r MK-MXV
-```ansi
-[2;31m[2;30m-[0m[2;31m[0m [2;31m[2;37mEL1I0R-MK-MXV[0m[2;31m[0m[2;30m::[0m[2;33m[0m[2;37m[0m[2;41m[0m[2;33m[0m[2;37mSYSINIT[0m
-[2;35m
-[0m[2;36m[2;34m[[0m[2;36m[0m[2;34mINFO] [0m[2;37mBootloader found.[0m
-[2;34m[0m[2;35m[0m[2;36m[2;34m[INFO] [0m[2;36m[0m[2;37mMemory allocation complete.[0m
-[2;34m[0m[2;35m[0m[2;36m[0m[2;34m[INFO][0m [2;37mPerforming hardware validation.[0m
+<pre>
+<span style="color: gray">-</span> <span style="color: white">EL1I0R-MK-MXV</span><span style="color: gray">::</span><span style="color: white">SYSINIT</span>
 
-[2;32m[2;31m[2;33m[2;31m[ERROR][0m[2;33m [2;37mEYE-SEE-0.9.7 reported problems in EYE-SEE hardware, see [2;33m[0m[2;37m[2;37mdmesg(1)[0m[2;37m for more details. Last 3 log lines:
-[0m[2;33m[0m[2;31m[0m[2;32m[0m  | [2;31mCRITICAL ERROR: [2;37mEYE-SEE-PR1 Encountered E1134[0m[2;31m[0m[2;37m...[0m
-  |[2;30m [0m[2;37mfor more details, run eye-see --err-explain e1134[0m
-  | [2;37mUSING LOWER RESOLUTION THAN NORMAL[0m
+<span style="color: blue">[INFO]</span> <span style="color: white">Bootloader found.</span>
+<span style="color: blue">[INFO]</span> <span style="color: white">Memory allocation complete.</span>
+<span style="color: blue">[INFO]</span> <span style="color: white">Performing hardware validation.</span>
 
-[2;34m[0m[2;34m[2;35m[0m[2;34m[0m[2;36m[0m[2;34m[INFO][0m [2;37mLoading core modules.[0m
-[2;34m[0m[2;35m[2;36m[0m[2;35m[0m[2;34m[INFO][0m [2;37mStarting ARGUS.[0m
-[2;35m[0m[2;36m[0m[2;34m[INFO][0m [2;37mLoading ARGUS modules[0m
+<span style="color: red">[ERROR]</span> <span style="color: white">EYE-SEE-0.9.7 reported problems in EYE-SEE hardware, see </span><code>dmesg(1)</code><span style="color: white"> for more details. Last 3 log lines:</span>
+  | <span style="color: red">CRITICAL ERROR: </span><span style="color: white">EYE-SEE-PR1 Encountered E1134</span><span style="color: white">...</span>
+  | <span style="color: white">for more details, run </span><code>eye-see --err-explain e1134</code>
+  | <span style="color: white">USING LOWER RESOLUTION THAN NORMAL</span>
 
-[2;32m[SUCCESS] [0m[2;37mLoaded all modules successfully[0m
-[2;32m[SUCCESS] [0m[2;37mInitialized[0m [2;37mEl1i0r-MK-MXV[0m [2;37msuccessfully
-[0m
+<span style="color: blue">[INFO]</span> <span style="color: white">Loading core modules.</span>
+<span style="color: blue">[INFO]</span> <span style="color: white">Starting ARGUS.</span>
+<span style="color: blue">[INFO]</span> <span style="color: white">Loading ARGUS modules</span>
 
-[2;30m- [0m[2;32mDone![0m[2;30m [0m
-```
+<span style="color: green">[SUCCESS]</span> <span style="color: white">Loaded all modules successfully</span>
+<span style="color: green">[SUCCESS]</span> <span style="color: white">Initialized El1i0r-MK-MXV successfully</span>
+
+<span style="color: gray">- </span><span style="color: green">Done!</span>
+</pre>
 
 ##
 
