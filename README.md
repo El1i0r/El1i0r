@@ -1,27 +1,6 @@
-## El1i0r MK-MXV
-<pre>
-<span style="color: gray">-</span> <span style="color: white">EL1I0R-MK-MXV</span><span style="color: gray">::</span><span style="color: white">SYSINIT</span>
+<p><pre align="center">
+<strong>Affan Ahmad /</strong> <a href="https://el1i0r.github.io">Homepage</a> <a href="https://www.reddit.com/user/El1i0r-Mk-MXV/submitted/?sort=top">Reddit</a> / <a href="https://github.com/El1i0r">GitHub</a> / <a href="https://gist.github.com/rougier">Gist</a>
+I go by El1i0r, or El1.I am currently a CS student in high school, and am interested in Operating Systems Development, Programming Language Design and Implementation, and Robotics and aspire to become a professional computer scientist. I am currently working on different open source projects related to my interests, including Wlek, a hobby project for learning the inner workings of Operating Systems, and Rosewud, a programming language for critical systems. You can call it a grandiose delusion, but I intend to do more than just hobbies.
 
-<span style="color: blue">[INFO]</span> <span style="color: white">Bootloader found.</span>
-<span style="color: blue">[INFO]</span> <span style="color: white">Memory allocation complete.</span>
-<span style="color: blue">[INFO]</span> <span style="color: white">Performing hardware validation.</span>
-
-<span style="color: red">[ERROR]</span> <span style="color: white">EYE-SEE-0.9.7 reported problems in EYE-SEE hardware, see </span><code>dmesg(1)</code><span style="color: white"> for more details. Last 3 log lines:</span>
-  | <span style="color: red">CRITICAL ERROR: </span><span style="color: white">EYE-SEE-PR1 Encountered E1134</span><span style="color: white">...</span>
-  | <span style="color: white">for more details, run </span><code>eye-see --err-explain e1134</code>
-  | <span style="color: white">USING LOWER RESOLUTION THAN NORMAL</span>
-
-<span style="color: blue">[INFO]</span> <span style="color: white">Loading core modules.</span>
-<span style="color: blue">[INFO]</span> <span style="color: white">Starting ARGUS.</span>
-<span style="color: blue">[INFO]</span> <span style="color: white">Loading ARGUS modules</span>
-
-<span style="color: green">[SUCCESS]</span> <span style="color: white">Loaded all modules successfully</span>
-<span style="color: green">[SUCCESS]</span> <span style="color: white">Initialized El1i0r-MK-MXV successfully</span>
-
-<span style="color: gray">- </span><span style="color: green">Done!</span>
-</pre>
-
-##
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1073076541770190860?idleMessage=If%20I'm%20not%20coding,%20I'm%20playing%20Minecraft%20¯-¯)](https://discord.com/users/1073076541770190860)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1073076541770190860?idleMessage=If%20I'm%20not%20coding,%20I'm%20probably%20studying%20¯-¯)](https://discord.com/users/1073076541770190860)
 
